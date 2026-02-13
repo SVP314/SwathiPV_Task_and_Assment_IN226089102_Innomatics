@@ -3,6 +3,7 @@ Logic Building Task 1 – Includes User Login Check, Pass/Fail Analyzer, Data Cl
 All tasks are implemented in Python and focus on basic logic, data processing and analysis exercises.
 
 **Tasks Covered:**
+
 User Login Check – Validate username and password input.
 
 Pass / Fail Analyzer – Analyze student marks and count pass/fail.
@@ -14,6 +15,7 @@ Message Length Analyzer – Analyze message sizes and flag messages longer than 
 Error Message Detector – Count “ERROR” entries in system logs.
 
 **Real-World Applications:**
+
 Authentication systems
 
 Academic evaluation systems
