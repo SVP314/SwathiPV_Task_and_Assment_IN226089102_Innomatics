@@ -1,4 +1,4 @@
-# LogicTask1_Feb2026
+# Task_1_Python_problem_solving_1
 Logic Building Task 1 – Includes User Login Check, Pass/Fail Analyzer, Data Cleaner, Message Length Analyzer and Error Message Detector.
 All tasks are implemented in Python and focus on basic logic, data processing and analysis exercises.
 
